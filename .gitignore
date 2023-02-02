@@ -27,6 +27,7 @@ dist-ssr
 
 # vscode
 .vscode
+.eslintrc.js
 
 #firebase
 .firebaserc
